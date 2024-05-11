@@ -52,7 +52,7 @@ export const features = [
   {
     id: "feature-3",
     icon: send,
-    title: "Baue eine engagierte Community auf",
+    title: "Baue engagierte Community",
     content:
       "Auf OnlyFans geht es nicht nur darum, Inhalte zu veröffentlichen, sondern auch darum, eine engagierte Community aufzubauen und zu pflegen. Wir unterstützen dich dabei, eine treue Fangemeinde aufzubauen, die deine Inhalte liebt und unterstützt. Von der Interaktion mit deinen Fans über das Hosting von exklusiven Events bis hin zur Einbindung in soziale Medien helfen wir dir dabei, eine starke und engagierte Community aufzubauen, die dich auf deinem Weg begleitet.",
   },
