@@ -1,5 +1,5 @@
 {
-  "name": "business-website-template",
+  "name": "Uno-Agency",
   "private": true,
   "version": "1.0.0",
   "type": "module",
@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "nice-waves": "^1.0.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },

@@ -1,17 +1,17 @@
-import { 
-  people01, 
-  people02, 
-  people03, 
-  facebook, 
-  instagram, 
-  linkedin, 
-  twitter, 
-  airbnb, 
-  binance, 
-  coinbase, 
-  dropbox, 
-  send, 
-  shield, 
+import {
+  tina,
+  sina,
+  bina,
+  facebook,
+  instagram,
+  linkedin,
+  twitter,
+  airbnb,
+  binance,
+  coinbase,
+  dropbox,
+  send,
+  shield,
   star
 } from "../assets";
 
@@ -38,23 +38,23 @@ export const features = [
   {
     id: "feature-1",
     icon: star,
-    title: "Rewards",
+    title: "Steigere deine Sichtbarkeit",
     content:
-      "The best credit cards offer some tantalizing combinations of promotions and prizes",
+      "Du hast großartige Inhalte, aber wie bringst du sie vor die Augen deiner potenziellen Abonnenten? Keine Sorge, das übernehmen wir für dich! Unsere Agentur kümmert sich um Marketing und Promotion, um deine Sichtbarkeit auf OnlyFans zu erhöhen. Wir wissen, wie wichtig es ist, eine starke Präsenz aufzubauen und deine Zielgruppe zu erreichen. Mit unseren bewährten Strategien und Taktiken helfen wir dir dabei, mehr Abonnenten anzuziehen und deine Fangemeinde zu erweitern",
   },
   {
     id: "feature-2",
     icon: shield,
-    title: "100% Secured",
+    title: "Vermeide rechtliche Risiken",
     content:
-      "We take proactive steps make sure your information and transactions are secure.",
+      "OnlyFans ist ein vielschichtiges Umfeld, und es ist wichtig, die rechtlichen Aspekte im Auge zu behalten. Wir stehen dir zur Seite, um sicherzustellen, dass dein Account den geltenden Vorschriften entspricht und rechtliche Risiken minimiert werden. Von der Einhaltung der Community-Richtlinien bis hin zur rechtlichen Beratung stehen wir dir mit unserem Fachwissen und unserer Erfahrung zur Seite, damit du dich auf das Wesentliche konzentrieren kannst: dein OnlyFans-Geschäft.",
   },
   {
     id: "feature-3",
     icon: send,
-    title: "Balance Transfer",
+    title: "Baue eine engagierte Community auf",
     content:
-      "A balance transfer credit card can save you a lot of money in interest charges.",
+      "Auf OnlyFans geht es nicht nur darum, Inhalte zu veröffentlichen, sondern auch darum, eine engagierte Community aufzubauen und zu pflegen. Wir unterstützen dich dabei, eine treue Fangemeinde aufzubauen, die deine Inhalte liebt und unterstützt. Von der Interaktion mit deinen Fans über das Hosting von exklusiven Events bis hin zur Einbindung in soziale Medien helfen wir dir dabei, eine starke und engagierte Community aufzubauen, die dich auf deinem Weg begleitet.",
   },
 ];
 
@@ -62,44 +62,43 @@ export const feedback = [
   {
     id: "feedback-1",
     content:
-      "Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.",
-    name: "Herman Jensen",
-    title: "Founder & Leader",
-    img: people01,
-  },
-  {
-    id: "feedback-2",
-    content:
-      "Money makes your life easier. If you're lucky to have it, you're lucky.",
-    name: "Steve Mark",
-    title: "Founder & Leader",
-    img: people02,
+      "Ich musste in kurzer Zeit eine neue Agentur finden und RARE hat großartige Arbeit geleistet. Sie verstanden genau, was ich brauchte und fanden eine bessere Lösung für mich.",
+    name: "Julliane",
+    img: bina,
   },
   {
     id: "feedback-3",
     content:
-      "It is usually people in the money business, finance, and international trade that are really rich.",
-    name: "Kenn Gallagher",
-    title: "Founder & Leader",
-    img: people03,
+      "Äußerst professionelles Team. Ich finde es toll, dass es so eine praktische Erfahrung ist und ich mich nur an einer Stelle bewerben muss.Sehr empfehlenswert",
+    name: "Laura Gallagher",
+    title: "",
+    img: sina,
+  },
+
+  {
+    id: "feedback-2",
+    content:
+      "Diese Agentur ist erstklassig, wenn es darum geht, ihre Kunden während des gesamten Bewerbungsprozesses zu behandeln. Ich bin endlich wirklich zufrieden!",
+    name: "Nora",
+    img: tina,
   },
 ];
 
 export const stats = [
   {
     id: "stats-1",
-    title: "User Active",
-    value: "3800+",
+    title: "EINNAHMEN",
+    value: "$230M+",
   },
   {
     id: "stats-2",
-    title: "Trusted by Company",
+    title: "AKTIVE MODELS",
     value: "230+",
   },
   {
     id: "stats-3",
-    title: "Transaction",
-    value: "$230M+",
+    title: "ONLYFANS-ABONNENTEN",
+    value: "3800+",
   },
 ];
 
@@ -109,23 +108,23 @@ export const footerLinks = [
     links: [
       {
         name: "Content",
-        link: "https://www.hoobank.com/content/",
+        link: "https://www.uno-agency.com/content/",
       },
       {
         name: "How it Works",
-        link: "https://www.hoobank.com/how-it-works/",
+        link: "https://www.uno-agency.com/how-it-works/",
       },
       {
         name: "Create",
-        link: "https://www.hoobank.com/create/",
+        link: "https://www.uno-agency.com/create/",
       },
       {
         name: "Explore",
-        link: "https://www.hoobank.com/explore/",
+        link: "https://www.uno-agency.com/explore/",
       },
       {
         name: "Terms & Services",
-        link: "https://www.hoobank.com/terms-and-services/",
+        link: "https://www.uno-agency.com/terms-and-services/",
       },
     ],
   },
@@ -134,23 +133,23 @@ export const footerLinks = [
     links: [
       {
         name: "Help Center",
-        link: "https://www.hoobank.com/help-center/",
+        link: "https://www.uno-agency.com/help-center/",
       },
       {
         name: "Partners",
-        link: "https://www.hoobank.com/partners/",
+        link: "https://www.uno-agency.com/partners/",
       },
       {
         name: "Suggestions",
-        link: "https://www.hoobank.com/suggestions/",
+        link: "https://www.uno-agency.com/suggestions/",
       },
       {
         name: "Blog",
-        link: "https://www.hoobank.com/blog/",
+        link: "https://www.uno-agency.com/blog/",
       },
       {
         name: "Newsletters",
-        link: "https://www.hoobank.com/newsletters/",
+        link: "https://www.uno-agency.com/newsletters/",
       },
     ],
   },
@@ -159,11 +158,11 @@ export const footerLinks = [
     links: [
       {
         name: "Our Partner",
-        link: "https://www.hoobank.com/our-partner/",
+        link: "https://www.uno-agency.com/our-partner/",
       },
       {
         name: "Become a Partner",
-        link: "https://www.hoobank.com/become-a-partner/",
+        link: "https://www.uno-agency.com/become-a-partner/",
       },
     ],
   },
